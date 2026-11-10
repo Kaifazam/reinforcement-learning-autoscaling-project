@@ -1,0 +1,5 @@
+algorithm,mean_response_time_ms,sla_violation_rate_pct,mean_resource_cost,mean_total_replicas,mean_cpu_utilization_pct
+Q-Learning,136.47925599304284,0.0,0.09,5.0,9.20755136982072
+PPO,140.6934818693398,0.0,0.09,5.0,10.860188968368538
+TRPO,154.54022280400966,0.0,0.09,5.0,16.29028345255281
+HPA baseline,130.1224508544626,0.0,0.09,5.0,6.7146866095931905

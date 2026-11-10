@@ -1,0 +1,2 @@
+request_rate_rps,web_cpu_pct,app_cpu_pct,db_cpu_pct,avg_cpu_pct,response_time_ms,cost,sla_violation,web_replicas,app_replicas,db_replicas,total_replicas,algorithm,step
+0.4333333373069763,3.0952381236212596,4.530303071845662,12.518518633312647,6.7146866095931905,130.1224508544626,0.09,0,2,2,1,5,HPA baseline,0
